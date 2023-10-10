@@ -1,0 +1,94 @@
+[2023/06/17 17:07:38]: (backup.sh) Executing restore.sh script
+[2023/06/17 17:07:40]: (backup.sh) List of backups
+[2023/06/17 17:11:36]: (backup.sh) Executing backup.sh script
+[2023/06/17 17:11:36]: (backup.sh) Backup of directory : /sourceFolder
+[2023/06/17 17:11:37]: (backup.sh) BACKUP COMPLETED
+[2023/06/17 17:11:42]: (backup.sh) Executing backup.sh script
+[2023/06/17 17:11:42]: (backup.sh) Backup of directory : /sourceFolder/
+[2023/06/17 17:11:43]: (backup.sh) BACKUP COMPLETED
+[2023/06/18 15:08:02]: (backup.sh) Executing backup.sh script
+[2023/06/18 15:08:02]: (backup.sh) Backup of directory : /sourceFolder
+[2023/06/18 15:08:02]: (backup.sh) BACKUP COMPLETED
+[2023/06/18 15:08:36]: (backup.sh) Executing backup.sh script
+[2023/06/18 15:08:36]: (backup.sh) Backup of directory : /sourceFolder
+[2023/06/18 15:08:38]: (backup.sh) BACKUP COMPLETED
+[2023/06/18 15:12:16]: (backup.sh) Executing restore.sh script
+[2023/06/18 15:12:18]: (backup.sh) List of backups
+[2023/06/18 15:35:43]: (backup.sh) Executing backup.sh script
+[2023/06/18 15:35:43]: (backup.sh) Backup of directory : /sourceFolder
+[2023/06/18 15:35:47]: (backup.sh) BACKUP COMPLETED
+[2023/06/18 15:40:01]: (backup.sh) Executing backup.sh script
+[2023/06/18 15:40:01]: (backup.sh) Backup of directory : /sourceFolder
+[2023/06/18 15:40:03]: (backup.sh) BACKUP COMPLETED
+[2023/06/18 15:40:31]: (backup.sh) Executing backup.sh script
+[2023/06/18 15:40:31]: (backup.sh) Backup of directory : /sourceFolder/
+[2023/06/18 15:40:34]: (backup.sh) BACKUP COMPLETED
+[2023/06/18 15:42:12]: (backup.sh) Executing backup.sh script
+[2023/06/18 15:42:12]: (backup.sh) Backup of directory : /sourceFolder/
+[2023/06/18 15:42:13]: (backup.sh) BACKUP COMPLETED
+[2023/06/18 15:42:56]: (backup.sh) Executing backup.sh script
+[2023/06/18 15:42:56]: (backup.sh) Backup of directory : /sourceFolder/
+[2023/06/18 15:42:56]: (backup.sh) BACKUP COMPLETED
+[2023/06/18 15:43:17]: (backup.sh) Executing backup.sh script
+[2023/06/18 15:43:17]: (backup.sh) Backup of directory : /sourceFolder
+[2023/06/18 15:43:17]: (backup.sh) BACKUP COMPLETED
+[2023/06/18 15:44:01]: (backup.sh) Executing backup.sh script
+[2023/06/18 15:44:01]: (backup.sh) Backup of directory : /sourceFolder
+[2023/06/18 15:44:01]: (backup.sh) BACKUP COMPLETED
+[2023/06/18 15:45:01]: (backup.sh) Executing backup.sh script
+[2023/06/18 15:45:01]: (backup.sh) Backup of directory : /sourceFolder
+[2023/06/18 15:45:01]: (backup.sh) BACKUP COMPLETED
+[2023/06/18 15:45:40]: (backup.sh) Executing backup.sh script
+[2023/06/18 15:45:40]: (backup.sh) Backup of directory : /sourceFolder/
+[2023/06/18 15:45:40]: (backup.sh) BACKUP COMPLETED
+[2023/06/18 15:57:48]: (backup.sh) Executing backup.sh script
+[2023/06/18 15:57:48]: (backup.sh) Backup of directory : /sourceFolder/
+[2023/06/18 15:57:49]: (backup.sh) BACKUP COMPLETED
+[2023/06/18 16:07:26]: (init.sh) Moving current directory to /backup
+[2023/06/18 16:07:26]: (init.sh) Adding alias backup='/backup/backup.sh' in .bashrc
+[2023/06/18 16:07:26]: (init.sh) Adding alias restore='/backup/restore.sh' in .bashrc
+[2023/06/18 16:07:26]: (init.sh) Cron entry added to crontab
+[2023/06/18 16:07:26]: (init.sh) init.sh script executed successfully
+[2023/06/18 16:11:32]: (backup.sh) Executing restore.sh script
+[2023/06/18 16:11:34]: (backup.sh) List of backups
+[2023/06/18 16:12:07]: (backup.sh) Executing backup.sh script
+[2023/06/18 16:12:07]: (backup.sh) Backup of directory : /sourceFolder
+[2023/06/18 16:13:06]: (backup.sh) BACKUP COMPLETED
+[2023/06/18 16:14:35]: (backup.sh) Executing backup.sh script
+[2023/06/18 16:14:35]: (backup.sh) Backup of directory : /sourceFolder/
+[2023/06/18 16:14:36]: (backup.sh) BACKUP COMPLETED
+[2023/06/18 16:14:51]: (backup.sh) Executing backup.sh script
+[2023/06/18 16:14:51]: (backup.sh) Directory doesn't exist
+[2023/06/18 16:15:10]: (backup.sh) Executing backup.sh script
+[2023/06/18 16:15:10]: (backup.sh) No files detected in /backup/test
+[2023/06/18 16:15:42]: (backup.sh) Executing restore.sh script
+[2023/06/18 16:15:44]: (backup.sh) List of backups
+[2023/06/18 16:15:53]: (backup.sh) Executing backup.sh script
+[2023/06/18 16:15:53]: (backup.sh) Backup of directory : /sourceFolder/
+[2023/06/18 16:15:54]: (backup.sh) BACKUP COMPLETED
+[2023/06/18 16:15:59]: (backup.sh) Executing restore.sh script
+[2023/06/18 16:16:01]: (backup.sh) List of backups
+[2023/06/18 16:16:10]: (backup.sh) Executing backup.sh script
+[2023/06/18 16:16:10]: (backup.sh) Backup of directory : /sourceFolder/
+[2023/06/18 16:16:13]: (backup.sh) BACKUP COMPLETED
+[2023/06/18 16:16:22]: (backup.sh) Executing restore.sh script
+[2023/06/18 16:16:24]: (backup.sh) List of backups
+[2023/06/18 16:16:33]: (backup.sh) Executing restore.sh script
+[2023/06/18 16:16:34]: (backup.sh) Restore backup
+[2023/06/18 16:16:38]: (backup.sh) Executing restore.sh script
+[2023/06/18 16:16:40]: (backup.sh) List of backups
+[2023/06/18 16:16:53]: (backup.sh) Executing restore.sh script
+[2023/06/18 16:16:55]: (backup.sh) Restore backup
+[2023/06/18 16:16:58]: (backup.sh) Executing restore.sh script
+[2023/06/18 16:16:59]: (backup.sh) Restore backup
+[2023/06/18 16:17:07]: (backup.sh) Executing restore.sh script
+[2023/06/18 16:17:13]: (backup.sh) Restore backup
+[2023/06/18 16:20:01]: (backup.sh) Executing backup.sh script
+[2023/06/18 16:20:01]: (backup.sh) Backup of directory : /sourceFolder
+[2023/06/18 16:20:01]: (backup.sh) BACKUP COMPLETED
+[2023/06/18 16:22:38]: (init.sh) Executing init.sh script
+[2023/06/18 16:22:38]: (init.sh) Moving current directory to /backup
+[2023/06/18 16:22:38]: (init.sh) alias backup='/backup/backup.sh' already exists in .bashrc
+[2023/06/18 16:22:38]: (init.sh) alias restore='/backup/restore.sh' already exists in .bashrc
+[2023/06/18 16:22:38]: (init.sh) Cron entry already exists
+[2023/06/18 16:22:38]: (init.sh) init.sh script executed successfully
