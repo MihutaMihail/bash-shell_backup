@@ -20,7 +20,7 @@ This will move the current directory to **/backup** and add the two commands as 
 It's important that you don't move this directory to make sure that the commands work <br> <br>
 *if needed you can type $chmod +x init.sh so that the init.sh can be executed*
 
-## COMMANDS
+## Commands
 
 ### ```$backup``` 
 This command will perform a backup on the current active directory <br>
