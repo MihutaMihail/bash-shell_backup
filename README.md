@@ -41,11 +41,13 @@ This command will retrieve your wanted archive <br>
 **Usage** :  ```$restore nameArchvie```
 
 ## About
-### .bashrc
+• There is a **logs.txt** file where you can see which commands the user has executed 
+
+#### • .bashrc
 You will need to manually reload the **.bashrc** once you have executed the init.sh script.
 To do so, you will need to execute one command : ```$source .bashrc```
 
-### crontab
+#### • crontab
 This is the default cron entry : <br>
 ```0 18 * * * /backup/backup.sh /sourceFolder```
 
